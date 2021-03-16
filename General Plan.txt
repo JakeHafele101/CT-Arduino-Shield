@@ -1,0 +1,26 @@
+Hardware
+- Shield for Arduino Uno
+- Inlcudes Pushbuttons, single color leds, RGB leds, Potentiometer, switches, Transceiver, 
+           Servo pin headers, buzzer, analog sound sensor, 1 digit 7-seg display,
+	   AND/OR gates with test points/digital outputs into arduino for coms display
+- Include test points if people wanna measure the hardware
+- make this thing absolutely fool proof, shouldnt need much because of shield nature
+  * reverse polarity on things like pin headers and so on
+
+
+
+Software
+- include full versions of code so people can see what should happen
+- include seperate code files so people can take it step by step
+- include templates kind of like a lab for a class that people can follow and fill in on
+- talk about mapping with analog sensors
+- terminal IO
+
+
+In general
+- Make this as accessible and interesting as possible
+- try and get the ball rolling for project ideas.. maybe people will like different stuff?
+- the goal is plug and play and to get people code fast.. even if they cant get stuff to 
+  work they should still be able to see things happen so they are interested
+- keep this relatively cheap. we already have arduinos and can buy stuff in bulk so 
+  hopefully this shouldn't cost too much

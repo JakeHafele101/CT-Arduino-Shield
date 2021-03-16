@@ -1,0 +1,10 @@
+Pushbuttons (FOUND)
+single color leds (FOUND)
+RGB leds
+Potentiometer (FOUND, 10k)
+Rocker Switch (FOUND)
+Transceiver, need 4x2 pin header (FOUND)
+Servo pin headers, 3x1 pins (FOUND)
+buzzer (FOUND)
+analog sound sensor
+AND/OR gates with test points/digital outputs into arduino for coms display
