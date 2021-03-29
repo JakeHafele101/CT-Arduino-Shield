@@ -1,0 +1,15 @@
+Added Component: Designator=A(ARDUINO_A000066)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "A000066"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/A000066/Arduino/view-part/557638/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=A-5V
+Added Pin To Net: NetName=GND Pin=A-GND_2
+Added Member To Class: ClassName=Arduino Demo Shield Member=Component A A000066
+Added Member To Class: ClassName=Arduino Demo Shield Member=Component J? Servo Connector
+Added Member To Class: ClassName=Arduino Demo Shield Member=Component LED? Blue LED
+Added Member To Class: ClassName=Arduino Demo Shield Member=Component SW? Pushbutton
+Added Room: Name=Arduino Demo Shield
